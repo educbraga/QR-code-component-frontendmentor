@@ -8,7 +8,7 @@ All of my Frontend Mentor challenge solutions are here. 👨🏻‍💻
 
 
 ## A <a id="a"></a>
-- <a href="https://github.com/educbraga/repo">Repo name<a/> - repo description
+
   
 ## B <a id="b"></a>
 
@@ -47,7 +47,7 @@ All of my Frontend Mentor challenge solutions are here. 👨🏻‍💻
 
 
 ## Q <a id="q"></a>
-
+- <a href="https://github.com/educbraga/QR-code-component-frontendmentor">QR code component<a/> - The first recommended challenge. It demands only HTML and CSS. The card layout doesn't shift, so it doesn't require a responsive layout.
 
 ## R <a id="r"></a>
 
@@ -61,5 +61,5 @@ All of my Frontend Mentor challenge solutions are here. 👨🏻‍💻
 ## U <a id="u"></a>
 
 
-## W <a id="u"></a>
+## W <a id="w"></a>
 
