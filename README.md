@@ -44,10 +44,10 @@ All of my Frontend Mentor challenge solutions are here. 👨🏻‍💻
 
   
 ## P <a id="p"></a>
-
+- <a href="https://github.com/educbraga/frontendmentor-podcast">Pod request access landing page<a/>
 
 ## Q <a id="q"></a>
-- <a href="https://github.com/educbraga/QR-code-component-frontendmentor">QR code component<a/> - The first recommended challenge. It demands only HTML and CSS. The card layout doesn't shift, so it doesn't require a responsive layout.
+- <a href="https://github.com/educbraga/QR-code-component-frontendmentor">QR code component<a/>
 
 ## R <a id="r"></a>
 
