@@ -47,7 +47,7 @@ All of my Frontend Mentor challenge solutions are here. 👨🏻‍💻
 - <a href="https://github.com/educbraga/frontendmentor-podcast">Pod request access landing page<a/>
 
 ## Q <a id="q"></a>
-- <a href="https://github.com/educbraga/QR-code-component-frontendmentor">QR code component<a/>
+- <a href="https://github.com/educbraga/frontend-mentor-challenge-solutions/tree/main/QR-code-component">QR code component<a/>
 
 ## R <a id="r"></a>
 
